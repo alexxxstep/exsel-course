@@ -11,7 +11,10 @@
     "comma-dangle": "off",
     "require-jsdoc": "off",
     "linebreak-style": "off",
-    "space-before-function-paren":"off"
+    "space-before-function-paren": "off",
+    "object-curly-spacing": "off",
+    "indent": [4, "tab"],
+    "no-tabs": 0
   },
   "extends": ["eslint:recommended", "google"]
 }
